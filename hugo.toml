@@ -1,4 +1,4 @@
-baseURL = 'https://fqdeng.com/'
+baseURL = 'https://fqdeng.com/blog'
 languageCode = 'en-us'
 title = "Blog"
 theme = "paper"
@@ -21,7 +21,7 @@ theme = "paper"
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'http://fqdeng.com/header.png'                 # gravatar email or image url
+  avatar = 'https://avatars.githubusercontent.com/u/21285645?v=4'                 # gravatar email or image url
   name = 'fqdeng'
   bio = 'winters'
 
