@@ -3,10 +3,6 @@ languageCode = 'en-us'
 title = "Blog"
 theme = "paper"
 
-[services]
-  [services.disqus]
-    shortname = 'winters'     # use disqus comments
-
 [params]
   # color style
   color = 'linen'                           # linen, wheat, gray, light
@@ -29,6 +25,7 @@ theme = "paper"
   # misc
   disableHLJS = true                        # disable highlight.js
   disablePostNavigation = false              # disable post navigation
+  comments = false
   monoDarkIcon = true                       # show monochrome dark mode icon
   gravatarCdn = 'header.png'         # e.g. 'https://cdn.v2ex.com/gravatar/'
   math = true                               # enable KaTeX math typesetting globally
