@@ -2,6 +2,7 @@ baseURL = 'https://fqdeng.com'
 languageCode = 'en-us'
 title = "My Blog"
 theme = "paper"
+icp = "沪ICP备2024084999号"
 
 [params]
   # color style
