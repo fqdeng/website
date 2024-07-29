@@ -1,4 +1,4 @@
-baseURL = 'https://fqdeng.com/blog'
+baseURL = 'https://fqdeng.com'
 languageCode = 'en-us'
 title = "Blog"
 theme = "paper"
