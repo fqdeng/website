@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog</title>
+    <title>My Blog</title>
     <link>https://fqdeng.com/</link>
-    <description>Recent content on Blog</description>
+    <description>Recent content on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jul 2024 22:41:39 +0800</lastBuildDate>
