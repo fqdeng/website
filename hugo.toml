@@ -1,6 +1,6 @@
 baseURL = 'https://fqdeng.com'
 languageCode = 'en-us'
-title = "My Blog"
+title = "Ninja"
 theme = "paper"
 
 [params]
